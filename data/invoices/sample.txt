@@ -1,0 +1,10 @@
+Invoice Number: INV-1012
+Date: 2026-03-25
+Vendor: Tech Supplies Co.
+Due Date: 2026-04-25
+
+Items:
+- Widget A : 5 x $100.00 = $500.00
+- Gadget X : 2 x $250.00 = $500.00
+
+Total Amount: $1000.00
